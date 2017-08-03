@@ -1,0 +1,2 @@
+# private-object
+new text
